@@ -29,23 +29,27 @@ const BotAlt* = "CBot-nim-"
 const BotIdent* = "CBot"
 
 ###
-# Bot realname.
+# Bot's realname.
 ##
 const BotRealname* = "CBot"
 
 ###
-# Bot server.
+# Bot's server.
 ##
 const BotServer* = "irc.address.org"
 
 ###
-# Bot port.
+# Bot's port.
 ##
 const BotPort* = 6667
 
 ###
-# Bot channel.
+# Bot's channel.
 ##
 const BotHome* = "#CBot"
+
+###
+# Bot's Admin nick.
+const BotAdmin* = "Your-nick"
 
 ### End of configuration ###
