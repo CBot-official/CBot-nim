@@ -50,6 +50,7 @@ const BotHome* = "#CBot"
 
 ###
 # Bot's Admin nick.
+##
 const BotAdmin* = "Your-nick"
 
 ### End of configuration ###
